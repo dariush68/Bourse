@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://dariush68.github.io/Bourse/"
 theme = "meme"
 publishDir = "docs"
 title = "MemE"
