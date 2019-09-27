@@ -1,4 +1,5 @@
 baseURL = "https://dariush68.github.io/Bourse/"
+themesDir = "themes"
 theme = "meme"
 publishDir = "docs"
 title = "MemE"
